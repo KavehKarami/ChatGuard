@@ -1,6 +1,6 @@
 {
-  "name": "enc",
-  "description": "beta",
+  "name": "ChatGuard",
+  "description": "ChatGuard - alpha",
   "version": "0.0.1",
   "manifest_version": 3,
   "content_scripts": [
